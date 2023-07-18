@@ -21,7 +21,7 @@
 https://github.com/NILESHSINGH234/Wheather-App/assets/131458541/dc81476e-988c-4e59-a37a-e8002506ce1f
 
 ## Link
-[Wheather APP](https://password-lac.vercel.app/)
+[Password Generator](https://password-lac.vercel.app/)
 
 
 
